@@ -1,0 +1,49 @@
+
+conda create -p ./venv python=3.10 -y
+
+conda activate ./venv
+pip install -r requirements.txt  
+
+python crew.py 
+
+
+
+GO TO GOOGLE AI STUDIO FOR API KEY 
+
+go to GOOGLE SERPER TOOLS AND GET API KEY 
+
+python -m pip install langchain-google-genai
+python -m pip show langchain-google-genai
+
+
+
+python -m pip install --upgrade pip
+python -m pip install streamlit
+
+python -m pip install -r requirements.txt
+
+python -m pip install crewai-tools
+
+python -m pip install crewai
+
+
+python -c "import crewai_tools; print(crewai_tools.__version__)"
+
+crew ai version:
+python -m pip show crewai-tools
+
+
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+
+verify environments exist: 
+
+conda env list
+python --version
+
+
+To run : streamlit run app.py 
+
+
