@@ -15,6 +15,20 @@ go to GOOGLE SERPER TOOLS AND GET API KEY
 python -m pip install langchain-google-genai
 python -m pip show langchain-google-genai
 
+in env file :
+
+GOOGLE_API_KEY=""
+
+SERPER_API_KEY=''
+
+# https://serper.dev/api-keys
+
+
+
+
+
+
+
 
 
 python -m pip install --upgrade pip
