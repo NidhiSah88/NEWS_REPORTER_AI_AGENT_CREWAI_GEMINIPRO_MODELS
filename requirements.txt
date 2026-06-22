@@ -1,6 +1,12 @@
+#crewai
+#langchain_google_genai #google gemini models 
+#load_dotenv 
+#crewai_tools
+
+streamlit
 crewai
-langchain_google_genai #google gemini models 
-load_dotenv 
-crewai_tools
-
-
+crewai-tools
+langchain-google-genai
+python-dotenv
+chromadb==0.5.23
+pydantic==2.10.6
